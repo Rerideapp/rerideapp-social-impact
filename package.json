@@ -1,0 +1,15 @@
+{
+  "name": "rerideapp-social-impact",
+  "version": "1.0.0",
+  "description": "ReRideApp — a social impact platform for listing free vehicles within 130 miles of Houston. Built with Firebase, Tailwind, and PWA support. Includes browsing, adding listings, saving favorites, and claiming vehicles.”",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cpos",
+    "generated"
+  ],
+  "author": "CPOS",
+  "license": "MIT"
+}
